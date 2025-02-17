@@ -13,4 +13,4 @@ Este challenge faz parte do Programa ONE, uma parceria entre Oracle e Alura LATA
 ## 🌐 Acesse e Teste
 
 Você pode acessar e testar a aplicação diretamente no seguinte link:  
-[**Sorteio | Amigo Secreto**](URL_DO_SEU_SITE_AQUI)
+[**Sorteio | Amigo Secreto**](https://glendalvesx.github.io/Challenge-AmigoSecreto/)
